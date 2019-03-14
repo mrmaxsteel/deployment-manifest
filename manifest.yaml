@@ -6,5 +6,6 @@ products:
   - id: 'C'
     depends_on: 
       - 'A'
+      - 'D'
   - id: 'D'
  

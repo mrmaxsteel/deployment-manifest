@@ -9,6 +9,8 @@ In a technology of your choosing:
   * Otherwise the order can be arbitrary
 * If there is a circular dependency, the app should report an appropriate error message
 
+NB: Feel free to represent the data in `manifest.yaml` as a code object if you wish, it is more important to have a functional algorithm than to be able to parse YAML)
+
 ### Example 1
 Manifest.yaml:
 ```yaml
